@@ -1,0 +1,5 @@
+virtualenv
+streamlit
+google-generativeai
+python-dotenv
+streamlit_modal
